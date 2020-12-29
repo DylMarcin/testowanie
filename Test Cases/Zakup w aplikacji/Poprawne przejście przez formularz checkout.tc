@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Poprawne przejście przez formularz checkout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb468ffd-7329-49f8-87fb-d3a92784680d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8e5cbc7a-df79-4cb6-960c-9758b0bf1446</id>
+      <masked>false</masked>
+      <name>login</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>01a42e81-6e4a-4a5c-a29a-ffb291776cee</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5f36f687-cdca-4328-9b46-ad920c2c3080</id>
+      <masked>false</masked>
+      <name>fname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1c0f554f-fe48-4b3b-a83a-887c7ee6f203</id>
+      <masked>false</masked>
+      <name>lname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>49733e88-e5da-4c7e-92db-cd751a3bc825</id>
+      <masked>false</masked>
+      <name>zip</name>
+   </variable>
+</TestCaseEntity>

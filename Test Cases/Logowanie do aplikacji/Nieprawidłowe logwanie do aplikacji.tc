@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Nieprawidłowe logwanie do aplikacji</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f66bdde6-5969-42ba-b822-70e4863f0a59</testCaseGuid>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>962c91f8-8011-437b-ba25-bba8be2534f7</id>
+      <masked>false</masked>
+      <name>login</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>cd547676-b9d4-4a2c-bf5f-17b4f82e8156</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

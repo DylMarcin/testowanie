@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Poprawne sortowanie - cena rosnąco</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04859dcf-6886-4546-a223-b4ad57a27b43</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3a7a452e-783a-410c-b880-80d106511a59</id>
+      <masked>false</masked>
+      <name>login</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c2689dad-627b-41a6-9bca-4218279f94f0</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

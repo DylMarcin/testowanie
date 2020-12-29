@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Poprawne zalogowanie do aplikacji DemoSauce</description>
+   <name>Poprawne logowanie do aplikacji</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e10162ed-17be-4ff0-85e9-73d03c935077</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>34504d8c-9a51-4756-881a-ea5f50e84b92</id>
+      <masked>false</masked>
+      <name>login</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eaaad396-6faf-46f3-8748-4d8459c64e75</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
